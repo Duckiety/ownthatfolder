@@ -1,2 +1,2 @@
-# ownthatfolder
-The source code of my batch program, Own That Folder.
+# OwnThatFolder
+The source code of my program, own that folder.
